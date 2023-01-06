@@ -11,3 +11,6 @@ Unsupervised machine learning was used.
 - Source: Jupyter Notebook, Pandas, SkLearning
 
 ## Summary
+
+![elbow](Images/elbow.png).
+![3D_graph](Images/3D_graph.png).
